@@ -13,7 +13,8 @@ public class LoginController {
     @GetMapping("/loginPage") // we map what we set in SecurityConfig
     public String showMyLoginPage() {
 
-        return "custom-login"; // we need to create and have custom-login.jsp
+        return "bootstrap-login"; // we need to create and have bootstrap-login.jsp
+        //return "custom-login"; // we need to create and have custom-login.jsp
 
     }
 }

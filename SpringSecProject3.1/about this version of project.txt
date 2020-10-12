@@ -1,2 +1,0 @@
-Version of Project with custom Login with no bootstrap and no handsome outlook.
-Java configuration
