@@ -1,6 +1,8 @@
 # exclude .idea and target folders
 SpringSecProject3.1/.idea/
 SpringSecProject3.1/target/
+SpringSecProject1/.idea/
+SpringSecProject1/target/
 
 # Compiled class file
 *.class
